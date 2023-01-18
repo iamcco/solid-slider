@@ -1,6 +1,6 @@
 {
-  "name": "solid-slider",
-  "version": "1.3.12",
+  "name": "solid-slider-old",
+  "version": "1.3.12-old-1",
   "description": "A slider utility for SolidJS.",
   "author": "David Di Biase",
   "repository": {
@@ -65,7 +65,7 @@
     "@solid-primitives/timer": "^1.3.4",
     "@solid-primitives/utils": "^4.0.0",
     "keen-slider": "^6.8.3",
-    "solid-js": "^1.6.0"
+    "solid-js": "1.3.13"
   },
   "devDependencies": {
     "esbuild-plugin-solid": "^0.4.2",
